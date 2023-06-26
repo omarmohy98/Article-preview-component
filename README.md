@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Repo]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution Repo](https://github.com/omarmohy98/Article-preview-component)
+- Live Site URL: [Live Site](https://article-preview-component.onrender.com)
 
 ## My process
 
